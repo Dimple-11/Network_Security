@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: network-security
+Version: 0.0.1
+Author: Dimple
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist
